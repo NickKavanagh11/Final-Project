@@ -1,0 +1,32 @@
+START
+
+Create empty student list
+
+Display menu:
+    1. Add Student
+    2. View Students
+    3. Search Student
+    4. Delete Student
+    5. Exit
+
+IF user selects Add Student
+    Ask user for student information
+    Store information in dictionary
+    Add dictionary to list
+
+IF user selects View Students
+    Display all students
+
+IF user selects Search Student
+    Ask for Student ID
+    Find matching student
+    Display student information
+
+IF user selects Delete Student
+    Ask for Student ID
+    Remove matching student
+
+IF user selects Exit
+    End program
+
+STOP
